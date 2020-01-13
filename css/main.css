@@ -1370,15 +1370,15 @@ body {
 }
 
 .g1-gradient-bg, .g1-gradient-color {
-  background-image: -moz-linear-gradient(90deg, #3d0d84 40%, #1c6be2 100%);
-  background-image: -webkit-linear-gradient(90deg, #3d0d84 40%, #1c6be2 100%);
-  background-image: -ms-linear-gradient(90deg, #3d0d84 40%, #1c6be2 100%);
+  background-image: -moz-linear-gradient(90deg, #000 100%, #000 100%);
+  background-image: -webkit-linear-gradient(90deg, #000 100%, #000 100%);
+  background-image: -ms-linear-gradient(90deg, #000 100%, #000 100%);
 }
 
 .g2-gradient-bg, .g2-gradient-color {
-  background-image: -moz-linear-gradient(-90deg, #3d0d84 0%, #1c6be2 100%);
-  background-image: -webkit-linear-gradient(-90deg, #3d0d84 0%, #1c6be2 100%);
-  background-image: -ms-linear-gradient(-90deg, #3d0d84 0%, #1c6be2 100%);
+  background-image: -moz-linear-gradient(-90deg, #121212 100%, #121212 100%);
+  background-image: -webkit-linear-gradient(-90deg, #121212 100%, #121212 100%);
+  background-image: -ms-linear-gradient(-90deg, #121212 100%, #121212 100%);
 }
 
 .g3-gradient-bg, .g3-gradient-color {
@@ -2912,14 +2912,14 @@ body {
 /*-------- End home-contact Area ------------*/
 /*------- Start Footer Style ---------*/
 .footer-area {
-  background-color: #000;
-  padding-top: 220px;
-  padding-bottom: 172px;
+  background-color: #121212;
+  padding-top: 0;
+  padding-bottom: 80px;
 }
 
 @media (max-width: 991px) {
   .footer-area {
-    padding-top: 120px;
+    padding-top: 0;
   }
 }
 
