@@ -1350,9 +1350,9 @@ body {
 }
 
 .p1-gradient-bg, .light-version .screens-area .screen-one .screen-left span, .light-version .screens-area .screen-two .screen-right span, .footer-area .footer-bottom .footer-social a:hover, .single-footer-widget .navbar-form .genric-btn, .page-header-area, .accordion > dt > a.active, .genric-btn.primary, .latest-post-carusel-area .single-post-carusel .details .meta-tags a, .popular-post-area .title span, .single-popular-carusel .tags li a, .blog-post-area .single-post .detials .tags li a:hover, .blog-post-area .single-post .genric-btn:hover, .blog-pagination .page-item.active .page-link, .blog-pagination .page-link:hover, .latest-posts-widget .latest-title .line, .latest-posts-widget .category-tag a, .social-links-widget .social-title .line, .category-widget .category-title .line, .category-widget .cat-list li:hover, .newsletter-widget .newsletter-title .line, .newsletter-widget .bbtns, .single-page-post .single-post-details .tags li a:hover, .comments-area .btn-reply:hover {
-  background-image: -moz-linear-gradient(0deg, #5e85fc 0%, #c46dfd 100%);
-  background-image: -webkit-linear-gradient(0deg, #5e85fc 0%, #c46dfd 100%);
-  background-image: -ms-linear-gradient(0deg, #5e85fc 0%, #c46dfd 100%);
+  background-image: -moz-linear-gradient(0deg, #44E9FF 0%, #AD1BD1 100%);
+  background-image: -webkit-linear-gradient(0deg, #44E9FF 0%, #AD1BD1 100%);
+  background-image: -ms-linear-gradient(0deg, #44E9FF 0%, #AD1BD1 100%);
 }
 
 .p1-gradient-color, .light-version .screens-area .screen-one .details-section i, .light-version .screens-area .screen-two .details-section i, .light-version .price-area .single-price:hover .price-middle h1, .light-version .game-review-area .ti-shift-left:hover,
@@ -1376,9 +1376,9 @@ body {
 }
 
 .g2-gradient-bg, .g2-gradient-color {
-  background-image: -moz-linear-gradient(-90deg, #121212 100%, #121212 100%);
-  background-image: -webkit-linear-gradient(-90deg, #121212 100%, #121212 100%);
-  background-image: -ms-linear-gradient(-90deg, #121212 100%, #121212 100%);
+  background-image: -moz-linear-gradient(-90deg, #23272A 100%, #23272A 100%);
+  background-image: -webkit-linear-gradient(-90deg, #23272A 100%, #23272A 100%);
+  background-image: -ms-linear-gradient(-90deg, #23272A 100%, #23272A 100%);
 }
 
 .g3-gradient-bg, .g3-gradient-color {
@@ -2912,7 +2912,7 @@ body {
 /*-------- End home-contact Area ------------*/
 /*------- Start Footer Style ---------*/
 .footer-area {
-  background-color: #121212;
+  background-color: #23272A;
   padding-top: 0;
   padding-bottom: 80px;
 }
