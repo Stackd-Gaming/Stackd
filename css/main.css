@@ -3638,6 +3638,7 @@ dl.toggle.time-line:before {
 
 .genric-btn.primary {
   color: #fff;
+  border-radius: 25px;
   border: none;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
